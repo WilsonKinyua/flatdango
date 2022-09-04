@@ -1,6 +1,6 @@
 // Your code here
 
-const filmsUrl = " http://localhost:3000/films";
+const filmsUrl = "https://whispering-castle-08564.herokuapp.com/films";
 
 //Fetch fist movie details
 function fetchFirstMovie (id) {
